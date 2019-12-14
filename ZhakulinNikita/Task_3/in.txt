@@ -1,0 +1,5 @@
+Alex 101 1000 Fixedly
+Lelya 102 10 Hourly
+Boba 103 1020 Fixedly
+Jeb 104 6 Hourly
+Abba 105 1000 Fixedly
