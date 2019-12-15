@@ -1,0 +1,5 @@
+Ivan 1 1000 Fix
+Vasya 5 6 Hour
+Dmytro 7 1500 Fix
+Petya 9 9 Hour
+Semen 2 1200 Fix
