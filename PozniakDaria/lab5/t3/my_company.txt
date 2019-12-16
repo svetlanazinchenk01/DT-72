@@ -1,0 +1,13 @@
+1 Ann average: 1000.0     per month: 1000.0
+2 Sid average: 16473.600000000002     per hour: 99.0
+3 Ben average: 12000.0     per month: 12000.0
+4 Alex average: 38937.6     per hour: 234.0
+5 Teddy average: 2134.0     per month: 2134.0
+6 Leo average: 166400.0     per hour: 1000.0
+7 Harry average: 200.0     per month: 200.0
+8 Pebbs average: 169728.0     per hour: 1020.0
+9 Niklaus average: 25792.0     per hour: 155.0
+10 Robert average: 3000.0     per month: 3000.0
+11 Davey average: 3214.0     per month: 3214.0
+12 Brock average: 13000.0     per month: 13000.0
+13 Henry average: 200.0     per month: 200.0
